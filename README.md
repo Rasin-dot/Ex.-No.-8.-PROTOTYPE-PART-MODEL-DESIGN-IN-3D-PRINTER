@@ -47,8 +47,10 @@
 
 ## Output:
 <img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/68213343-93a0-476c-ba11-400c7c164b7c" />
-### Name:
-### Register Number:
+
+## Name: Rasindhan R
+
+## Register Number: 212224230222
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
